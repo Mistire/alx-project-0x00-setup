@@ -20,7 +20,7 @@ const Landing: React.FC =  () => {
        
         <Button title="Large Rounded-SM" styles="text-lg rounded-sm" />
         <Button title="Large Rounded-MD" styles="text-lg rounded-md" />
-        <Button title="Large Rounded-Full" styles="text-lg rounded-full" />
+        <Button title="Large Rounded-Full" styles="text-lg rounded-lg" />
       </div>
     </div>
   )
